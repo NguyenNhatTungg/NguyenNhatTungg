@@ -39,3 +39,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenNhatTungg&" alt="NguyenNhatTungg" /></p> <br>
 
 
+![T-Dark's snake gif](https://github.com/NguyenNhatTungg/NguyenNhatTungg/blob/main/github-contribution-grid-snake.svg)
