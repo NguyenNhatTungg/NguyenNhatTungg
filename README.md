@@ -1,7 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm T-Dark</h1>
 
-<img alt="benner" style="width:100vw" src="https://storage.googleapis.com/duckly-blog/2021/03/gitduck-vs-code-extensions-animation-opt.gif">
+<video width="100%" controls>
+  <source src="./videos/tunglol.mp4" type="video/mp4">
+</video>
 
 - 🔭 I’m currently working on Cyber Security. 
 - 🌱 I’m looking to collaborate on IUH.
